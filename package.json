@@ -10,7 +10,8 @@
         "coverage": "gulp coverage",
         "build": "gulp"
     },
-    "contributors": [{
+    "contributors": [
+        {
             "name": "Yemel Jardi",
             "email": "yemel@bitpay.com"
         },
@@ -55,7 +56,7 @@
         "url": "https://github.com/searchcoin/bitcore-p2p.git"
     },
     "dependencies": {
-        "bitcore-lib": "git://github.com/searchcoin/ssccore-lib.git",
+        "bitcore-lib": "git://github.com/searchcoin/searchcore-lib.git",
         "bloom-filter": "^0.2.0",
         "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
         "socks5-client": "^0.3.6"
